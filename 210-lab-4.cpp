@@ -10,7 +10,7 @@ int main() {
 
     for (int i = 1; i <= 100; i++) // for loop for initializing i to 1, comparing to <= 100 and ++ for increment
     {
-        cout << i << endl;
+        cout << i << "\n";
     }
     return 0;
 }
